@@ -1,0 +1,6 @@
+{
+  "name": "SMARTEX - Optical Fibre AI Fault Detection",
+  "description": "Intelligent Optical Fibre Network Monitoring & AI/ML-Based Fault Detection System for Smart Cities",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
